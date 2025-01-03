@@ -6,6 +6,7 @@ This repository contains a TensorFlow-based regression model for analyzing prote
 - Residue counts
 - Molecular weights
 - Nucleotide sequences
+- link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C5OPUK
 
 The model predicts key protein properties using this comprehensive dataset.
 
